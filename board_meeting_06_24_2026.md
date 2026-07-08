@@ -278,8 +278,8 @@ Thank you for your continued support and guidance.
 
 Warm regards,
 
-Siva Jasthi
-President
-Learn and Help
-Empowering Minds, Inspiring Generosity!
-www.learnandhelp.com
+Siva Jasthi  
+President  
+Learn and Help  
+Empowering Minds, Inspiring Generosity!  
+www.learnandhelp.com  
