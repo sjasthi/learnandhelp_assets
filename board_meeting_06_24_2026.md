@@ -8,9 +8,9 @@ Please review the draft meeting minutes below and share any corrections, additio
 
 # Learn and Help Board Meeting Minutes
 
-**Date:** Wednesday, June 24, 2026
-**Location:** Zoom
-**Purpose:** Board Meeting
+**Date:** Wednesday, June 24, 2026  
+**Location:** Zoom  
+**Purpose:** Board Meeting  
 
 ## 1. 2025–2026 Year-End Summary
 
