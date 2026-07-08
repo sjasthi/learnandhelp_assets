@@ -62,6 +62,7 @@ The Board appreciated the successful completion of another year in which virtual
 * **Time:** 7:30 PM – 9:00 PM CST
 * **Dates:** July 6 – August 26, 2026
 * **Fee:** $256
+* **Enrollment:** 8 students registered. 
 
 ---
 
@@ -98,11 +99,11 @@ Possible approaches included:
 * Encourage students to communicate conflicts with instructors as early as possible
 * Allow one scheduled makeup opportunity when necessary
 
-No final decision was made.
+Decision: We will take up a combination of above approaches to reduce the contention. 
 
 ---
 
-# 4. Registration Incentives
+# 4. Registration Incentives and Policies
 
 The Board discussed several strategies to encourage early registration.
 
@@ -119,68 +120,66 @@ Proposed incentives included:
 * $600 tuition
 * Registration fee waived
 
-**Late August**
+**Beginning August 1**
 
-* Open House
-* Trial class
-
-**Beginning September 13**
+* August 31 Open House
+* Open Hour will also serve as Trial class
 
 * Tuition: $600
 * Registration fee: $50
 
-**After classes begin**
+**Beginning 14th September (after classes begin)**
 
 * $600 tuition
 * $50 registration fee
 * $50 late registration fee
 
-### Referral Program
+
+**Action:** Board approval needed.
+
+# 5. Referral Program
 
 Students referring another enrolled student will receive a **$50 tuition credit** per successful referral.
+The referral program is valid only for Python 101 registrations.  There is no limit on the number of referrals. $50 tuition credit will be given per successful referral.
 
-**Action:** Jasthi to finalize and publish the registration policy.
-
----
-
-# 5. Refund Policy (Python 101)
-
-Two refund options were discussed.
-
-### Option 1
-
-Students withdrawing after the first class receive a refund less a **$100 administrative fee**.
-
-### Option 2
-
-Students withdrawing after the first class may instead carry their registration forward and repeat the course during the following academic year.
+**Action:** Board approval needed.
 
 ---
 
-# 6. Budget Request (2026–2027)
+# 6. Refund Policy
+
+This Refund Policy is applicable to any student joining "Learn and Help" classes for the first time. For example, this refund policy is valid and applicale to the students joining - Python 101 and SparkCivics.
+
+Students withdrawing on or before the second class receive full refund less **$50 registration fee**.
+
+**Action:** Board approval needed.
+
+---
+
+# 7. Budget Request (2026–2027)
 
 The following annual operating budget was presented for approval.
 
 | Item                       | Amount |
 | -------------------------- | -----: |
-| Website and Hosting        |   $160 |
+| Website and Hosting        |   $260 |
 | OpenRouter AI Subscription |   $240 |
 | Marketing and Outreach     | $1,000 |
 
 Marketing budget includes participation in:
 
-* IAM events
+* IAM (MN) events
 * Manabadi events
 * TEAM events
 * Social media outreach
 
-**Total requested budget:** **$1,400**
+**Total requested budget:** **$1,500**
 
-The Board was requested to review and approve the proposed budget.
+**Action:** The Board was requested to review and approve the proposed budget.
 
 ---
 
-# 7. Expanding Community Giving
+# 8. Expanding Community Giving
 
 The Board discussed expanding Learn and Help's charitable impact beyond school libraries.
 
@@ -202,7 +201,7 @@ Further policy development is required before implementation.
 
 ---
 
-# 8. Outreach and Marketing
+# 9. Outreach and Marketing
 
 Marketing activities for July and August were discussed.
 
@@ -214,7 +213,7 @@ Marketing activities for July and August were discussed.
 
 ---
 
-# 9. Matching Grants and Fundraising
+# 10. Matching Grants and Fundraising
 
 The Board agreed that matching gifts represent an important growth opportunity.
 
@@ -228,7 +227,7 @@ Topics discussed included:
 
 ---
 
-# 10. Learn and Help Digital Assets
+# 11. Learn and Help Digital Assets
 
 The Board discussed continued improvements to:
 
@@ -240,7 +239,7 @@ The Board discussed continued improvements to:
 
 ---
 
-# 11. Instructor Evaluation Form
+# 13. Instructor Evaluation Form
 
 Jasthi reported that the online instructor evaluation form is still under development and will be integrated directly into the Learn and Help website.
 
@@ -248,7 +247,7 @@ Jasthi reported that the online instructor evaluation form is still under develo
 
 ---
 
-# 12. Other Business
+# 13. Other Business
 
 No additional agenda items were raised.
 
@@ -264,6 +263,29 @@ No additional agenda items were raised.
 | Coordinate July–August outreach activities                                         | Lalitha, Brinda, Jasthi |
 | Review and approve proposed operating budget                                       | Board                   |
 
+## Action Items
+
+### 🗳️ Board Approval Required
+
+| # | Action Item | Owner | Status |
+|---|-------------|-------|--------|
+| 4 | Registration Incentives and Policies | Board | ☐ Pending Approval |
+| 5 | Referral Program | Board | ☐ Pending Approval |
+| 6 | Refund Policy | Board | ☐ Pending Approval |
+| 7 | Budget Request (2026–27) | Board | ☐ Pending Approval |
+
+---
+
+### 📌 Other Action Items
+
+| # | Action Item | Owner | Status |
+|---|-------------|-------|--------|
+| 9.1 | Manabadi Outreach and Marketing | Lalitha | ☐ In Progress |
+| 9.2 | IAM (Minnesota) Outreach and Marketing | Brinda | ☐ In Progress |
+| 9.3 | Indian Community Associations Outreach and Marketing | Dr. Siva Jasthi | ☐ In Progress |
+| 10 | Investigate matching grants and fundraising platforms; evaluate registration options and report findings | Uma & Varma | ☐ In Progress |
+| 13 | Integrate the Instruction Evaluation Form into the Learn and Help website | Dr. Siva Jasthi | ☐ In Progress |
+
 ---
 
 Please review these draft minutes and provide any comments, corrections, or suggested edits. If you agree with the contents, kindly reply with your approval so we can finalize the meeting minutes.
@@ -273,5 +295,9 @@ Thank you for your continued support and guidance.
 Warm regards,
 
 **Siva Jasthi**
+**President**
+**Learn and Help**
+**Empowering Minds, Inspiring Generosity!**
+**www.learnandhelp.com**
 Founder & President
 Learn and Help
