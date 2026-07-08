@@ -107,12 +107,6 @@ Decision: We will take up a combination of above approaches to reduce the conten
 
 The Board discussed several strategies to encourage early registration.
 
-Proposed incentives included:
-
-* Early registration discount
-* Complimentary copy of the SHEROES book
-* Special enrichment sessions for registered students
-
 ### Proposed Registration Timeline
 
 **Register by July 31**
