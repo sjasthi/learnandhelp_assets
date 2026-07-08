@@ -249,16 +249,6 @@ No additional agenda items were raised.
 
 ## Action Items Summary
 
-| Action                                                                             | Owner                   |
-| ---------------------------------------------------------------------------------- | ----------------------- |
-| Finalize registration incentive policy                                             | Jasthi                  |
-| Implement online instructor evaluation form                                        | Jasthi                  |
-| Investigate fundraising platforms (Benevity, Double the Donation, YourCause, etc.) | Uma, Varma              |
-| Coordinate July–August outreach activities                                         | Lalitha, Brinda, Jasthi |
-| Review and approve proposed operating budget                                       | Board                   |
-
-## Action Items
-
 ### 🗳️ Board Approval Required
 
 | # | Action Item | Owner | Status |
@@ -288,10 +278,8 @@ Thank you for your continued support and guidance.
 
 Warm regards,
 
-**Siva Jasthi**
-**President**
-**Learn and Help**
-**Empowering Minds, Inspiring Generosity!**
-**www.learnandhelp.com**
-Founder & President
-Learn and Help
+* **Siva Jasthi**
+* **President**
+* **Learn and Help**
+* **Empowering Minds, Inspiring Generosity!**
+* **www.learnandhelp.com**
